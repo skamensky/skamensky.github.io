@@ -1,1 +1,3 @@
-Miscellaneous archived I want to link to.
+Miscellaneous archives I want to link to.
+
+[Validity](./validity/)
